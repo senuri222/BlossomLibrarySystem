@@ -25,6 +25,13 @@ The Blossom Library System allows different types of users to interact with a vi
 - Interface: Console-based (CUI)
 - Environment: Dev C++ / Code::Blocks / any C++ IDE
 
+## 👨‍💻 Author
+Developed by a BSc (Hons) in Software Engineering undergraduate student as a coursework project.  
+This repository is shared for educational purposes.
+
+## 📜 License
+This project is open-source and free to use for learning. Attribution is appreciated.
+
 ## 🚀 Getting Started
 
 ### Compile & Run
@@ -34,9 +41,4 @@ To compile and run the project:
 g++ -o LibrarySystem main.cpp
 ./LibrarySystem
 
-## 👨‍💻 Author
-Developed by a BSc (Hons) in Software Engineering undergraduate student as a coursework project.  
-This repository is shared for educational purposes.
 
-## 📜 License
-This project is open-source and free to use for learning. Attribution is appreciated.
